@@ -52,13 +52,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Alimer.Bindings.SDL": {
-              "target": "Package",
-              "version": "[3.9.2, )"
-            },
             "Vortice.Vulkan": {
               "target": "Package",
-              "version": "[2.1.2, )"
+              "version": "[1.9.8, )"
             }
           },
           "imports": [

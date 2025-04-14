@@ -2,34 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "Alimer.Bindings.SDL/3.9.2": {
-        "type": "package",
-        "compile": {
-          "lib/net8.0/Alimer.Bindings.SDL.dll": {}
-        },
-        "runtime": {
-          "lib/net8.0/Alimer.Bindings.SDL.dll": {}
-        },
-        "runtimeTargets": {
-          "runtimes/linux-x64/native/libSDL3.so": {
-            "assetType": "native",
-            "rid": "linux-x64"
-          },
-          "runtimes/osx/native/libSDL3.dylib": {
-            "assetType": "native",
-            "rid": "osx"
-          },
-          "runtimes/win-arm64/native/SDL3.dll": {
-            "assetType": "native",
-            "rid": "win-arm64"
-          },
-          "runtimes/win-x64/native/SDL3.dll": {
-            "assetType": "native",
-            "rid": "win-x64"
-          }
-        }
-      },
-      "Vortice.Vulkan/2.1.2": {
+      "Vortice.Vulkan/1.9.8": {
         "type": "package",
         "compile": {
           "lib/net8.0/Vortice.Vulkan.dll": {
@@ -45,28 +18,10 @@
     }
   },
   "libraries": {
-    "Alimer.Bindings.SDL/3.9.2": {
-      "sha512": "wTHDea9q/HFSABTIa3CYSK7NC2tNFIZ+gfBBzjNxPq9Gnmq2V4Lih//LiUIw0BKHHjzb7pekJhozUYlFjD8IXA==",
+    "Vortice.Vulkan/1.9.8": {
+      "sha512": "vrg1Y8qOc5muLE9Apl17uYoUgOGNRPk3HmH+j2UxxqU2h7O0MeB6/ap6CNyvwBkE7GrLPu+H5SxxxqpUc46Bkw==",
       "type": "package",
-      "path": "alimer.bindings.sdl/3.9.2",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "README.md",
-        "alimer.bindings.sdl.3.9.2.nupkg.sha512",
-        "alimer.bindings.sdl.nuspec",
-        "lib/net8.0/Alimer.Bindings.SDL.dll",
-        "lib/net9.0/Alimer.Bindings.SDL.dll",
-        "runtimes/linux-x64/native/libSDL3.so",
-        "runtimes/osx/native/libSDL3.dylib",
-        "runtimes/win-arm64/native/SDL3.dll",
-        "runtimes/win-x64/native/SDL3.dll"
-      ]
-    },
-    "Vortice.Vulkan/2.1.2": {
-      "sha512": "+FQellDgWFtw2sHE9IkO6PusEjTilk48VtyWyDM6iHnCZJDlYMgxvCeenUlu15KK1xWIeGRaDF2GMKOFc2mS8g==",
-      "type": "package",
-      "path": "vortice.vulkan/2.1.2",
+      "path": "vortice.vulkan/1.9.8",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -77,15 +32,14 @@
         "lib/net9.0/Vortice.Vulkan.dll",
         "lib/net9.0/Vortice.Vulkan.pdb",
         "lib/net9.0/Vortice.Vulkan.xml",
-        "vortice.vulkan.2.1.2.nupkg.sha512",
+        "vortice.vulkan.1.9.8.nupkg.sha512",
         "vortice.vulkan.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Alimer.Bindings.SDL >= 3.9.2",
-      "Vortice.Vulkan >= 2.1.2"
+      "Vortice.Vulkan >= 1.9.8"
     ]
   },
   "packageFolders": {
@@ -140,13 +94,9 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
-          "Alimer.Bindings.SDL": {
-            "target": "Package",
-            "version": "[3.9.2, )"
-          },
           "Vortice.Vulkan": {
             "target": "Package",
-            "version": "[2.1.2, )"
+            "version": "[1.9.8, )"
           }
         },
         "imports": [

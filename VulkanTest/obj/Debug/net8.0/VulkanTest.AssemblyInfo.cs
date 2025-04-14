@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VulkanTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b906f932340e1e0994f4e9a04e0697294f409030")]
 [assembly: System.Reflection.AssemblyProductAttribute("VulkanTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VulkanTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,11 +1,4 @@
-﻿// Copyright (c) Amer Koleci and Contributors.
-// Licensed under the MIT License (MIT). See LICENSE in the repository root for more information.
-
-using SDL3;
-using System.Diagnostics;
-using System.Runtime.CompilerServices;
-using System.Runtime.InteropServices;
-using System.Text;
+﻿using System.Text;
 using Vortice.Vulkan;
 using static Vortice.Vulkan.Vulkan;
 
@@ -21,7 +14,6 @@ public unsafe class Program
     public readonly VkDevice VkDevice;
     public readonly VkQueue GraphicsQueue;
     public readonly VkQueue PresentQueue;
-    private uint _frameIndex;
 
     public static void Main(string[] args)
     {

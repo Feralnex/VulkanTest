@@ -47,12 +47,7 @@ G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.deps
 G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.runtimeconfig.json
 G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.dll
 G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.pdb
-G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\Alimer.Bindings.SDL.dll
 G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\Vortice.Vulkan.dll
-G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL3.so
-G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\runtimes\osx\native\libSDL3.dylib
-G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\runtimes\win-arm64\native\SDL3.dll
-G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\runtimes\win-x64\native\SDL3.dll
 G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.csproj.AssemblyReference.cache
 G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.GeneratedMSBuildEditorConfig.editorconfig
 G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.AssemblyInfoInputs.cache
@@ -64,3 +59,4 @@ G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\refint\VulkanTe
 G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.pdb
 G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.genruntimeconfig.cache
 G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\ref\VulkanTest.dll
+G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.sourcelink.json

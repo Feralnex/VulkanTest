@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9MTxiECVuTQ=",
+  "dgSpecHash": "KcewtKFXiUQ=",
   "success": true,
   "projectFilePath": "G:\\Visual Studio Projects\\VulkanTest\\VulkanTest\\VulkanTest.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\feral\\.nuget\\packages\\alimer.bindings.sdl\\3.9.2\\alimer.bindings.sdl.3.9.2.nupkg.sha512",
-    "C:\\Users\\feral\\.nuget\\packages\\vortice.vulkan\\2.1.2\\vortice.vulkan.2.1.2.nupkg.sha512"
+    "C:\\Users\\feral\\.nuget\\packages\\vortice.vulkan\\1.9.8\\vortice.vulkan.1.9.8.nupkg.sha512"
   ],
   "logs": []
 }

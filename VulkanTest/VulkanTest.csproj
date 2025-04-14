@@ -10,7 +10,6 @@
 
   <ItemGroup>
     <PackageReference Include="Vortice.Vulkan" Version="2.1.2" />
-	<PackageReference Include="Alimer.Bindings.SDL" Version="3.9.2" />
   </ItemGroup>
 
 </Project>
