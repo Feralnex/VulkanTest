@@ -1,0 +1,66 @@
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.csproj.AssemblyReference.cache
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.AssemblyInfoInputs.cache
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.AssemblyInfo.cs
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.csproj.CoreCompileInputs.cache
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.exe
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.deps.json
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.runtimeconfig.json
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.dll
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.pdb
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\bin\Debug\net8.0\Alimer.Bindings.SDL.dll
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\bin\Debug\net8.0\Vortice.Vulkan.dll
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL3.so
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\bin\Debug\net8.0\runtimes\osx\native\libSDL3.dylib
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\bin\Debug\net8.0\runtimes\win-arm64\native\SDL3.dll
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\bin\Debug\net8.0\runtimes\win-x64\native\SDL3.dll
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.csproj.Up2Date
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.dll
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\obj\Debug\net8.0\refint\VulkanTest.dll
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.pdb
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.genruntimeconfig.cache
+C:\Users\tocz\source\repos\VulkanTest\VulkanTest\obj\Debug\net8.0\ref\VulkanTest.dll
+J:\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.exe
+J:\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.deps.json
+J:\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.runtimeconfig.json
+J:\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.dll
+J:\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.pdb
+J:\VulkanTest\VulkanTest\bin\Debug\net8.0\Alimer.Bindings.SDL.dll
+J:\VulkanTest\VulkanTest\bin\Debug\net8.0\Vortice.Vulkan.dll
+J:\VulkanTest\VulkanTest\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL3.so
+J:\VulkanTest\VulkanTest\bin\Debug\net8.0\runtimes\osx\native\libSDL3.dylib
+J:\VulkanTest\VulkanTest\bin\Debug\net8.0\runtimes\win-arm64\native\SDL3.dll
+J:\VulkanTest\VulkanTest\bin\Debug\net8.0\runtimes\win-x64\native\SDL3.dll
+J:\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.csproj.AssemblyReference.cache
+J:\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.GeneratedMSBuildEditorConfig.editorconfig
+J:\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.AssemblyInfoInputs.cache
+J:\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.AssemblyInfo.cs
+J:\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.csproj.CoreCompileInputs.cache
+J:\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.csproj.Up2Date
+J:\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.dll
+J:\VulkanTest\VulkanTest\obj\Debug\net8.0\refint\VulkanTest.dll
+J:\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.pdb
+J:\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.genruntimeconfig.cache
+J:\VulkanTest\VulkanTest\obj\Debug\net8.0\ref\VulkanTest.dll
+G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.exe
+G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.deps.json
+G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.runtimeconfig.json
+G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.dll
+G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\VulkanTest.pdb
+G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\Alimer.Bindings.SDL.dll
+G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\Vortice.Vulkan.dll
+G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL3.so
+G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\runtimes\osx\native\libSDL3.dylib
+G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\runtimes\win-arm64\native\SDL3.dll
+G:\Visual Studio Projects\VulkanTest\VulkanTest\bin\Debug\net8.0\runtimes\win-x64\native\SDL3.dll
+G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.csproj.AssemblyReference.cache
+G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.AssemblyInfoInputs.cache
+G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.AssemblyInfo.cs
+G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.csproj.CoreCompileInputs.cache
+G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.csproj.Up2Date
+G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.dll
+G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\refint\VulkanTest.dll
+G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.pdb
+G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\VulkanTest.genruntimeconfig.cache
+G:\Visual Studio Projects\VulkanTest\VulkanTest\obj\Debug\net8.0\ref\VulkanTest.dll
